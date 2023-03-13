@@ -1,4 +1,4 @@
-### Windows Map Embed with your location pinned
+### Google Maps embed with your location pinned for PCs
 Copyright 2023 John McLendon
 
 This is a collection of front-end javascript, css, and html to display your current location.
