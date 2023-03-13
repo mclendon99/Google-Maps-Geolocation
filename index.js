@@ -1,4 +1,4 @@
-
+// Copyright 2023 John McLendon
 var pos = null;
 var x = document.getElementById("body");
 

@@ -1,4 +1,5 @@
 ### Windows Map Embed with your location pinned
+Copyright 2023 John McLendon
 
 This is a collection of front-end javascript, css and html to display your current location.
 The display is a Google Map. No google key is required. Tested on Windows 10 (Edge) but should run on Windows 11.
