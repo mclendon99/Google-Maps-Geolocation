@@ -1,0 +1,20 @@
+.mapouter {
+    position:relative;
+    text-align:right;
+    width:80vw;
+    height:70vw;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none !important;
+    width:80vw;
+    height:70vw;
+}
+.gmap_iframe {
+    width:80vw  !important;
+    height:70vw !important;
+    scrolling: no;
+    marginheight: 0;
+    marginwidth: 0;
+    frameborder: 0;
+}
