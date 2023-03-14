@@ -9,7 +9,7 @@ function showPosition(p)
 
 
     const contentStr = '<div class="mapouter"><div class="gmap_canvas"> ' +
-      '<iframe class="gmap_iframe" referrerpolicy="no-referrer-when-downgrade" sandbox="allow-same-origin allow-presentation allow-scripts allow-popups allow-storage-access-by-user-activation" ' +
+      '<iframe class="gmap_iframe" referrerpolicy="no-referrer-when-downgrade" sandbox="allow-same-origin allow-presentation allow-scripts allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" ' +
       'src="https://maps.google.com/maps?hl=en&q=' + pos.coords.latitude + ',' + pos.coords.longitude +
       '&z=18&ie=UTF8&iwloc=B&output=svembed"></iframe></div></div>';
     console.log("contentStr:", contentStr);
