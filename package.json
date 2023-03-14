@@ -1,0 +1,23 @@
+{
+  "name": "google-maps-geolocation",
+  "version": "1.0.0",
+  "description": "Simple map viewer with your location pinned",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/mclendon99/Google-Maps-Geolocation.git"
+  },
+  "keywords": [
+    "Maps",
+    "Geolocation"
+  ],
+  "author": "John McLendon",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mclendon99/Google-Maps-Geolocation/issues"
+  },
+  "homepage": "https://github.com/mclendon99/Google-Maps-Geolocation#readme"
+}

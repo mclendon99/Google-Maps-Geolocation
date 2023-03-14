@@ -1,0 +1,37 @@
+{
+    "lang": "en-us",
+    "name": "Basic Map",
+    "short_name": "Map of your location",
+    "description": "A basic map with your location pinned.",
+    "start_url": "/",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "map-512x512.png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "map-44x44.png",
+            "sizes": "44x44"
+        },
+        {
+            "src": "map-71x71.png",
+            "sizes": "71x71"
+        },
+        {
+            "src": "map-150x150.png",
+            "sizes": "150x150"
+        },
+        {
+            "src": "map-310x310.png",
+            "sizes": "310x310"
+        },
+        {
+            "src": "map-50x50.png",
+            "sizes": "50x50"
+        }
+    ]
+}
