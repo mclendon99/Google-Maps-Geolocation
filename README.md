@@ -3,9 +3,9 @@ Copyright 2023 John McLendon
 
 This is a collection of front-end javascript, css, and html to display your current location in Google Maps.
 Not a big deal on a phone but it apparently is somewhat of a big deal on a windows PC as the particular invocation
-of maps.
-If you connect a GPS to your PC, it will show a very accurate location when the GPS is properly configured.
-The display is a no marker or directions map view. No google key is required. Tested on Windows 10 (Edge) 
+of maps is not done in the normal way.
+If you connect a GPS to your PC, it will show a very accurate location when the GPS is properly configured, i.e. is feeding windows location..
+The view has no marker or directions buttons. No google key is required. Tested on Windows 10 (Edge) 
 but should run on Windows 11 or really anything. The app prompts for permission to access location as it 
 requests a high accuracy location.
 
